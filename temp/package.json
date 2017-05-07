@@ -1,0 +1,26 @@
+{
+  "name": "testpackage",
+  "version": "1.0.3",
+  "description": "test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tony",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antleo1995/how-to-npm.git"
+  },
+  "keywords": [
+    "practice",
+    "training",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/antleo1995/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/antleo1995/how-to-npm#readme",
+  "dependencies": {
+  }
+}
